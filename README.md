@@ -1,6 +1,6 @@
 # Linux-Server-App-Deploy
 
-# Ubuntu-Linux Server Configuration
+## Ubuntu-Linux Server Configuration
 
 
 ## TL:DR
