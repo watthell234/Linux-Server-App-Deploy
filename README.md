@@ -9,6 +9,26 @@ Host Name: ec2-52-55-198-43.compute-1.amazonaws.com
 
 IP Address: 52.55.198.43
 
+Installed Packages List
+1. apache2
+2. libapache2-mod-wsgi
+3. python-dev
+4. git
+5. python-pip
+6. virtualenv
+7. Flask
+8. httplib2
+9. oauth2client
+10. sqlalchemy
+11. psycopg2
+12. sqlaclemy_utils
+13. requests
+14. libpq-dev
+15. python-dev
+16. postgresql
+17. postgresql-contrib
+
+
 ## Amazon Lightsail Server Set Up
 
 1. [Visit Amazon Lightsail](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Flightsail.aws.amazon.com%2Fls%2Fwebapp%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fparksidewebapp&forceMobileApp=0) and create a new AWS account:
